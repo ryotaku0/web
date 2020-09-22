@@ -1,0 +1,223 @@
+body{
+  width:100%;
+  margin: 0em;
+  background-color:rgba(6, 36, 56, 0.945);
+  font-family: 'Bangers', cursive;
+}
+
+header{
+  width:100%;
+  background-color:#fce373;
+  color:black;
+  font-weight:bold;
+  font-size:90px;
+  text-align:center;
+
+  position:relative;
+}
+.title{
+  font-size:120px;
+  color:black;
+  text-decoration:none;
+}
+
+.design{
+float:left;
+
+  color:rgba(6, 36, 56, 0.945);
+  margin-top:20px;
+}
+.dramatic{
+  color:rgba(6, 36, 56, 0.945);
+  background-color:#fce373;
+  font-size:60px;
+  padding-left:20px;
+  font-weight:bold;
+ 
+  color:black;
+  padding-right:800px;
+}
+.engeki{
+
+  font-size:60px;
+  margin-left:50px;
+  font-weight:bold;
+  
+  color:#fce373;
+  padding-right:500px;
+}
+
+.electro{
+  color:rgba(6, 36, 56, 0.945);
+  background-color:#fce373;
+  font-size:60px;
+  padding-left:15px;
+  font-weight:bold;
+ 
+  color:black;
+  padding-right:100px;
+ 
+}
+.erekutoro{
+  font-size:60px;
+  margin-left:50px;
+  font-weight:bold;
+  
+  color:#fce373;
+  padding-right:600px;
+}
+
+.ambient{
+  color:rgba(6, 36, 56, 0.945);
+  background-color:#fce373;
+  font-size:60px;
+  padding-left:15px;
+  font-weight:bold;
+  
+  color:black;
+  padding-right:300px;
+}
+.kankyo{
+  font-size:60px;
+  margin-left:50px;
+  font-weight:bold;
+  
+  color:#fce373;
+  padding-right:600px;
+}
+
+.sampling{
+  color:rgba(6, 36, 56, 0.945);
+  background-color:#fce373;
+  font-size:60px;
+  
+  font-weight:bold;
+  
+  color:black;
+  padding-right:300px;
+}
+.sanpuringu{
+  font-size:60px;
+  
+  font-weight:bold;
+ 
+  color:#fce373;
+  padding-right:600px;
+}
+.techno{
+  color:rgba(6, 36, 56, 0.945);
+  background-color:#fce373;
+  font-size:60px;
+  padding-left:25px;
+  font-weight:bold;
+
+  color:black;
+  padding-right:300px;
+}
+.tekuno{
+  font-size:60px;
+  margin-left:80px;
+  font-weight:bold;
+  
+  color:#fce373;
+  padding-right:600px;
+}
+
+.game{
+  color:rgba(6, 36, 56, 0.945);
+  background-color:#fce373;
+  font-size:60px;
+  padding-left:30px;
+  font-weight:bold;
+ 
+  color:black;
+  padding-right:300px;
+}
+.ge-mu{
+  font-size:60px;
+  margin-left:20px;
+  font-weight:bold;
+  
+  color:#fce373;
+  padding-right:600px;
+}
+.title{
+  color:#fce373;
+  margin-left:730px;
+  font-size:50px;
+  font-weight:bold;
+  transform: skewY(4deg);
+ 
+  width:200px;
+}
+.junle{
+  background-color:#fce373;
+color:black;
+font-size:50px;
+font-weight:bold;
+transform: skewY(4deg);
+padding-left:100px;
+}
+.junle:hover{
+  color:red;
+}
+
+.main{
+  position: absolute;
+  top:60;
+  left:60;
+  float:right;
+  text-align:center;
+  
+}
+.main video{
+  margin-left:170px;
+ margin-bottom:60px;
+}
+.soundcloud{
+  margin-left:100px;
+}
+.logo{
+  margin-bottom:200px;
+}
+.sound-cloud{
+  display:inline-block;
+}
+
+.three {
+
+  margin-top:25px;
+  
+}
+.five{
+  margin-top:30px;
+}
+.seven{
+  margin-top:25px; 
+}
+.nine{
+  margin-top:20px; 
+}
+.fa{
+  background-color:orange;
+  border-radius:100%;
+  padding:15px;
+}
+a{
+  color:white;
+  text-decoration:none;
+  float:right;
+  font-size:25px;
+  margin-right:30px;
+  margin-top:40px;
+  z-index:50;
+  opacity:0.9;
+  
+}
+a:hover{
+  opacity:1.0;
+}
+a:active{
+  color:#fce373;
+}
+

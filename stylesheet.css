@@ -1,0 +1,234 @@
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p, div {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Hiragino Kaku Gothic ProN W3', sans-serif;
+    width:100%;
+    margin: 0em;
+ 
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+.top-wrapper{
+  padding:130px 0 100px 0;
+  text-align:center;
+  background-image:url(シレン1.jpg);
+  background-size:cover;
+  color:white;
+
+}
+.container{
+  width:1170px;
+  margin:0 auto;
+}
+.sentense{
+  color:white;
+  opacity:0.7;
+}
+.sentense h1{
+  font-size:45px;
+  font-weight:bold;
+  letter-spacing:5px;
+}
+.btn{
+  padding:8px 24px;
+  color:white;
+  display:inline-block;
+  border-radius: 10px;
+  box-shadow:0 3px black ;
+}
+.btn:active{
+  box-shadow:none;
+  position:relative;
+  top:3px;
+}
+.btn:hover{
+  opacity:1;
+}
+.btn-wrapper h1{
+  padding:30px 0 0 0;
+}
+.btn-wrapper h2{
+  padding-top: 30px;
+}
+.more{
+  margin-top:20px;
+  background-color:#239b76;
+  opacity:0.8;
+}
+.tabi{
+  background-color: #239b76;
+  opacity:0.8;
+  margin-right:10px;
+}
+.work{
+  margin-top:30px;
+  background-color:red;
+  opacity:0.8;
+  margin-right:10px;
+}
+
+.soundcloud{
+  background-color:orangered;
+  opacity:0.8;
+}
+.fa{
+  margin-right:5px;
+}
+.kagirinaku{
+  opacity:0.8;
+  background-color:rgb(161, 161, 82);
+  margin-right:10px;
+}
+.pikacyu{
+  opacity:0.8;
+  background-color:#FFD700;
+  margin-right:10px;
+}
+.earth{
+  background-color:#3b5998;
+  opacity:0.8;
+  margin-right:10px;
+}
+.wakatake{
+  opacity:0.8;
+  background-color:#A67F3c;
+  margin-right:10px;
+}
+.shogeki{
+  background-color:#FF773E;
+  opacity:0.8;
+  margin-right:10px;
+}
+.lesson-wrapper{
+  height:580px;
+  text-align:center;
+  
+}
+.lessons h1{
+  padding:80px 0 50px 0;
+  font-weight:normal;
+  color:#5f5d60;
+}
+.lesson{
+  width:50%;
+  float:left;
+}
+.lesson-text{
+  width:80%;
+  margin-top:15px;
+  display:inline-block;
+  font-size:20px;
+  color:black;
+  margin-bottom:50px;
+}
+.lesson-icon{
+  position:relative;
+  
+}
+.lesson-icon p{
+  position:absolute;
+  top:45%;
+  width:100%;
+  color:white;
+  font-size:50px;
+}
+.music{
+  color:black;
+}
+
+.message-wrapper{
+  text-align:center;
+  
+ 
+
+}
+.message-wrapper h1{
+  
+  font-size:45px;
+  font-weight:bold;
+  letter-spacing:5px;
+}
+.who{
+  padding-top:100px;
+  display: inline-block;
+}
+
+
+.goodbye{
+  height :450px;
+  width:415px;
+}
+.sirenone{
+  height :450px;
+  width:415px;
+}
+.sirenthree{
+  margin-top:100px;
+  height :350px;
+  width:415px;
+}
+.journey{
+  height :450px;
+  width:415px;
+}
+.icy{
+  height :450px;
+  width:415px; 
+}
+
+.good{
+  padding-top: 50px;
+  color:red;
+  font-size:60px;
+}
+.good li{
+  text-align: left;
+}
+.bad{
+  padding-top: 50px;
+  color:blue;
+  font-size:60px;
+  
+}
+.bad li{
+  text-align: left;
+}
+span{
+  color:white;
+}
+.yajirusi{
+  color:red;
+}
+.good-sentense li{
+  font-size: 30px;
+  margin-bottom: 50px
+}
+.bad-sentense li{
+  font-size:30px;
+  margin-bottom: 50px;
+}
+.engeki:hover{
+opacity:0.8;
+}
+.siren:hover{
+  opacity:0.8
+}
+.trip:hover{
+  opacity:0.8;
+}
+.mario:hover{
+  opacity:0.8;
+}
